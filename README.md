@@ -59,9 +59,9 @@ Further a working notebook can be found [here](https://github.com/nipunjindal/di
 
 ## Parameters for MagicMixStableDiffusionImg2ImgPipeline
 
-* k_min: Ratio of iteration for which only text guided image generation is done.
-* k_max: Ratio of iteration from when the mix of layout from input image and content from prompt is done.
-* v: Control the amount of mix between the input image layout and the prompt.
+* `k_min`: Ratio of iteration for which only text guided image generation is done.
+* `k_max`: Ratio of iteration from when the mix of layout from input image and content from prompt is done.
+* `v`: Control the amount of mix between the input image layout and the prompt.
 
 ## Development Environment Setup
 
