@@ -17,7 +17,7 @@ To use the repository, follow the steps below to enable the outputs:
 
 Feel free to experiment with the various settings and see how they affect the output. If you have any questions or run into any issues, please refer to the documentation or reach out to the community for help.
 
-Below are some examples of the types of images you can generate using our models:
+Below are some examples of the types of images you can generate using our models.
 
 ### Input Image
 ![](assets/dog.png)
