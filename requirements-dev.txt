@@ -2,3 +2,5 @@ black
 isort
 mypy
 pre-commit
+jupyterlab
+ipywidgets
