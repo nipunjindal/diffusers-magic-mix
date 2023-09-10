@@ -55,7 +55,7 @@ display(init_image)
 display(image)
 ```
 
-Further a working notebook can be found [here](https://github.com/nipunjindal/diffusers-magic-mix/playground.ipynb).
+Further a working notebook can be found [here](https://github.com/nipunjindal/diffusers-magic-mix/blob/main/playground.ipynb).
 
 ## Parameters for MagicMixStableDiffusionImg2ImgPipeline
 
